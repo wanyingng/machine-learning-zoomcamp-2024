@@ -19,8 +19,8 @@ This course is taken in *Cohort mode*, which enables participants to earn a cert
 | - | - | :-: |
 | Week 1 | [Introduction to Machine Learning](https://github.com/xlepotato/machine-learning-zoomcamp-2024/tree/main/01-intro) | Completed |
 | Week 2 | [Machine Learning for Regression](https://github.com/xlepotato/machine-learning-zoomcamp-2024/tree/main/02-regression) | Completed |
-| Week 3 | Machine Learning for Classification | Ongoing | 
-| Week 4 | Evaluation Metrics for Classification | Scheduled | 
+| Week 3 | [Machine Learning for Classification](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/03-classification) | Completed | 
+| Week 4 | Evaluation Metrics for Classification | Ongoing | 
 | Week 5 | Deploying Machine Learning Models | Scheduled | 
 | Week 6 | Decision Trees and Ensemble Learning | Scheduled | 
 | Week 7 | Midterm Project | Scheduled | 
