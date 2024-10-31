@@ -21,8 +21,8 @@ This course is taken in *Cohort mode*, which enables participants to earn a cert
 | Week 2 | [Machine Learning for Regression](https://github.com/xlepotato/machine-learning-zoomcamp-2024/tree/main/02-regression) | Completed | matplotlib, seaborn, LaTeX, EDA, train-validation-test framework, log transformation, feature engineering, one-hot encoding, linear regression, ridge regression, RMSE |
 | Week 3 | [Machine Learning for Classification](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/03-classification) | Completed | scikit-learn, mutual information, risk ratio, pearson correlation coefficient, logistic regression, accuracy |
 | Week 4 | [Evaluation Metrics for Classification](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/04-evaluation) | Completed | tqdm, dummy model, confusion table, precision, recall, f1, ROC curves (TPR, FPR, random model, ideal model), AU ROC, class imbalance, K-fold cross-validation |
-| Week 5 | Deploying Machine Learning Models | Ongoing | 
-| Week 6 | Decision Trees and Ensemble Learning | Scheduled | 
+| Week 5 | [Deploying Machine Learning Models](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/05-deployment) | Completed | pickle, flask, curl, requests, json, gunicorn, waitress, pipenv, linux, docker, AWS elastic beanstalk |
+| Week 6 | Decision Trees and Ensemble Learning | Ongoing | 
 | Week 7 | Midterm Project | Scheduled | 
 | Week 8 | Neural Networks and Deep Learning | Scheduled | 
 | Week 9 | Serverless Deep Learning | Scheduled | 
