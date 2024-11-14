@@ -18,13 +18,13 @@ This course is taken in *Cohort mode*, which enables participants to earn a cert
 | | Topic  | Status | Acquired Skill(s) |
 | - | - | :-: | - |
 | Week 1 | [Introduction to Machine Learning](https://github.com/xlepotato/machine-learning-zoomcamp-2024/tree/main/01-intro) | Completed | python, numpy, pandas, crisp-dm, linear algebra, markdown, git, github, jupyter notebook |
-| Week 2 | [Machine Learning for Regression](https://github.com/xlepotato/machine-learning-zoomcamp-2024/tree/main/02-regression) | Completed | matplotlib, seaborn, LaTeX, EDA, train-validation-test framework, log transformation, feature engineering, one-hot encoding, linear regression, ridge regression, RMSE |
+| Week 2 | [Machine Learning for Regression](https://github.com/xlepotato/machine-learning-zoomcamp-2024/tree/main/02-regression) | Completed | matplotlib, seaborn, LaTeX, EDA, train-validation-test framework, log transformation, feature engineering, one-hot encoding (DictVectorizer), linear regression, ridge regression, RMSE |
 | Week 3 | [Machine Learning for Classification](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/03-classification) | Completed | scikit-learn, mutual information, risk ratio, pearson correlation coefficient, logistic regression, accuracy |
 | Week 4 | [Evaluation Metrics for Classification](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/04-evaluation) | Completed | tqdm, dummy model, confusion table, precision, recall, f1, ROC curves (TPR, FPR, random model, ideal model), AU ROC, class imbalance, K-fold cross-validation |
-| Week 5 | [Deploying Machine Learning Models](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/05-deployment) | Completed | pickle, flask, curl, requests, json, gunicorn, waitress, pipenv, linux, docker, AWS elastic beanstalk |
-| Week 6 | Decision Trees and Ensemble Learning | Ongoing | 
-| Week 7 | Midterm Project | Scheduled | 
-| Week 8 | Neural Networks and Deep Learning | Scheduled | 
-| Week 9 | Serverless Deep Learning | Scheduled | 
-| Week 10 | Kubernetes and TensorFlow Serving | Scheduled | 
-| Week 11 | KServe (optional) | Scheduled | 
+| Week 5 | [Deploying Machine Learning Models](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/05-deployment) | Completed | pickle, web service, flask, curl, requests, json, gunicorn, waitress, pipenv, linux, docker, AWS elastic beanstalk |
+| Week 6 | [Decision Trees and Ensemble Learning](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/06-trees) | Completed | decision tree, ensemble learning (random forest, gradient boosting), XGBoost, impurity (misclassification rate), hyperparameters tuning, pivot table, model performance monitoring (watchlist), jupyter magic command | 
+| Week 7, 8, 9 | Midterm Project | Ongoing | 
+| Week 10 | Neural Networks and Deep Learning | Scheduled | 
+| Week 11 | Serverless Deep Learning | Scheduled | 
+| Week 12 | Kubernetes and TensorFlow Serving | Scheduled | 
+| Week 13 | KServe (optional) | Scheduled | 
