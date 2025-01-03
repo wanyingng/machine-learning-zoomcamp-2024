@@ -24,7 +24,9 @@ This course is taken in *Cohort mode*, which enables participants to earn a cert
 | Week 5 | [Deploying Machine Learning Models](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/05-deployment) | Completed | pickle, web service, flask, curl, requests, json, gunicorn, waitress, pipenv, linux, docker, AWS elastic beanstalk |
 | Week 6 | [Decision Trees and Ensemble Learning](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/06-trees) | Completed | decision tree, ensemble learning (random forest, gradient boosting), XGBoost, impurity (misclassification rate), hyperparameters tuning, pivot table, model performance monitoring (watchlist), jupyter magic command | 
 | Week 7, 8, 9 | [Midterm Project](https://github.com/wanyingng/student-performance-prediction) | Completed | setuptools, requirements.txt, os, logging, datetime, exception handling, sys, object-oriented programming, dataclasses, dill, end-to-end machine learning pipeline (Pipeline, ColumnTransformer, SimpleImputer, OneHotEncoder, StandardScaler, GridSearchCV), linear models (LinearRegression, Ridge, Lasso), tree-based models (DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, XGBRegressor, CatBoostRegressor, AdaBoostRegressor), R², MAE, render_template, HTML |
-| Week 10 | Neural Networks and Deep Learning | Ongoing | 
-| Week 11 | Serverless Deep Learning | Scheduled | 
+| Week 10 | [Neural Networks and Deep Learning](https://github.com/wanyingng/machine-learning-zoomcamp-2024/tree/main/08-deep-learning) | Completed | image classification, CNN (GlobalAveragePooling2D, Conv2D, MaxPooling2D), tensorflow, keras (ImageDataGenerator), google colab, pre-trained models (Xception), transfer learning (ImageNet), optimizers (Adam, SGD), loss functions (CategoricalCrossentropy, BinaryCrossentropy), epochs, model checkpointing, activation functions (ReLU, sigmoid), dropout, data augmentations (rotate, shift, shear, zoom, flip) |
+| Week 11 | Serverless Deep Learning | Ongoing | 
 | Week 12 | Kubernetes and TensorFlow Serving | Scheduled | 
 | Week 13 | KServe (optional) | Scheduled | 
+| Week 14, 15 | Capstone Project 1 | Ongoing | 
+| Week 16, 17 | Capstone Project 2 | Scheduled | 
